@@ -1,0 +1,1 @@
+Keeping these here for my succesfu connection between the mega (master) and uno (slave) MCU.
